@@ -16,7 +16,7 @@ public class Yooo
     public Yooo()
     {
         // initialise instance variables
-        x = 0;
+        x = 5;
     }
 
     /**
